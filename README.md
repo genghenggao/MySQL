@@ -1,2 +1,3 @@
 # MySQL
 Try to connect MySQL 
+I use MyEclispse2017 for tools, environment is JDK8, and my database is MySQL8.0
